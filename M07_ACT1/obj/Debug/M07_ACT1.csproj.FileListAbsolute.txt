@@ -1,0 +1,14 @@
+C:\Projects\VisualStudio\Linkia\M07_ACT1\bin\Debug\M07_ACT1.exe.config
+C:\Projects\VisualStudio\Linkia\M07_ACT1\bin\Debug\M07_ACT1.exe
+C:\Projects\VisualStudio\Linkia\M07_ACT1\bin\Debug\M07_ACT1.pdb
+C:\Projects\VisualStudio\Linkia\M07_ACT1\bin\Debug\calc.dll
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.csprojAssemblyReference.cache
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.Form1.resources
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.Properties.Resources.resources
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.csproj.GenerateResource.cache
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.csproj.CopyComplete
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.exe
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.pdb
+C:\Projects\VisualStudio\Linkia\M07_ACT1\bin\Debug\es\M07_ACT1.resources.dll
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\M07_ACT1.Form1.es.resources
+C:\Projects\VisualStudio\Linkia\M07_ACT1\obj\Debug\es\M07_ACT1.resources.dll
